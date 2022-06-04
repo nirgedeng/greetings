@@ -75,3 +75,7 @@ func randomFormat() string {
 func Print() {
 	fmt.Println(1)
 }
+
+func Dump() {
+	fmt.Println(4)
+}
